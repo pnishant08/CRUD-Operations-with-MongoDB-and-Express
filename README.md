@@ -1,4 +1,4 @@
-# CRUD Operations with MongoDB and Express
+# CRUDify: MongoDB and Express
 
   This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using MongoDB as the database and Express.js as the web framework. It serves as a practical guide for developers looking to implement these fundamental operations in a Node.js environment.
 
